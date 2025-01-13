@@ -15,5 +15,9 @@
   },
   "eslintConfig": {
     "extends": "standard"
+  },
+  "dependencies": {
+    "commander": "13.0.0",
+    "inquirer": "12.3.1"
   }
 }
